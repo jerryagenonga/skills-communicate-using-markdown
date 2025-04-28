@@ -4,3 +4,8 @@
 ## Markdown Basics
 
 ### Syntax
+
+#### Code Example
+```python
+print('hello world')
+```
